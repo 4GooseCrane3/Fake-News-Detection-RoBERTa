@@ -1,6 +1,6 @@
-# 📰 Fake News Detection Using RoBERTa
+# Fake News Detection Using RoBERTa
 
-## 🔍 Overview
+## Overview
 This project implements a **Fake News Detection system** using the **RoBERTa transformer model** to classify news articles as **Fake** or **Real**.  
 The model is fine-tuned on a large, real-world dataset of news articles and achieves **~99% accuracy**, making it suitable for research, analysis, and practical NLP applications.
 
@@ -42,9 +42,9 @@ The model is fine-tuned on a large, real-world dataset of news articles and achi
 | Recall | **1.00** |
 | F1-Score | **1.00** |
 
-✔ Stable convergence  
-✔ High confidence predictions  
-✔ No overfitting observed
+- Stable convergence  
+- High confidence predictions  
+- No overfitting observed
 
 ---
 
